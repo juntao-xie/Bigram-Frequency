@@ -1,6 +1,6 @@
 Juntao Xie, jx357
 
-How to run code: place the code in the same folder as the 'wiki.txt' document and run in that folder.
+How to run code: spark-submit path/to/bigram.py path/to/[target_text_file].txt
 
 Outputs:
 1. word_pairs_count: Output file containing the count of all bigram words
